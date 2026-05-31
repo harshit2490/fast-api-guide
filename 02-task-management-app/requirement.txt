@@ -1,0 +1,7 @@
+"fastapi[standard]"
+SQLAlchemy
+pydantic_settings
+pyscopg2
+pyjwt
+"pwdlib[argon2]"
+alembic
