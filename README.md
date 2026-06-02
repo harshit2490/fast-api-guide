@@ -1,6 +1,6 @@
 # ⚡ Learn FastAPI — Complete Revision Guide
 
-> A chapter-wise FastAPI reference guide with concise definitions and code examples for quick revision.
+> A chapter-wise FastAPI reference guide with concise definitions and code examples for quick revision[...](https://www.youtube.com/playlist?list=PLUhY5ME1VdIumaSa-m5SQ-ztTL8NWY8Gh)
 
 ---
 
