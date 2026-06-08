@@ -60,8 +60,12 @@ Key highlights:
 ### Installation
 
 ```bash
-# Install FastAPI and Uvicorn
+# Install FastAPI and Uvicorn...
 pip install fastapi uvicorn
+```
+```bash
+# Create & install ll the dependencies in 'requirement.txt' just like package.json file... 
+pip freeze > requirement.txt 
 ```
 
 ### Running the Server
