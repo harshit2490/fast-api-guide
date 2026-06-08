@@ -64,8 +64,18 @@ Key highlights:
 pip install fastapi uvicorn
 ```
 ```bash
-# Create & install ll the dependencies in 'requirement.txt' just like package.json file... 
-pip freeze > requirement.txt 
+# Create & installs all the dependencies in 'requirement.txt' just like package.json file... 
+pip freeze > requirement.txt
+```
+```
+# 'requirement.txt' file look like... 
+annotated-doc==0.0.4
+annotated-types==0.7.0
+anyio==4.13.0
+fastapi==0.136.3
+pydantic==2.13.4
+pydantic_core==2.46.4
+uvicorn==0.49.0
 ```
 
 ### Running the Server
